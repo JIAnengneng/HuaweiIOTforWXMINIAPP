@@ -1,0 +1,2 @@
+# HuaweiIOTforWXMINIAPP
+华为云物联网平台的微信小程序开发
